@@ -16,6 +16,8 @@ The application invokes image processing and manipulation. The user will be able
 Future features will be the following: 
 
 - Scale image
+- Change image hue value
+- Change image saturation value
 - Draw different types of shapes
 - Move the shapes
 - Re-size the shapes
